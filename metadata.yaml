@@ -1,0 +1,43 @@
+_repo: Ad-le-de-S-nange_27837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Souza-Botelho, Adélaïde-Marie-Emilie Filleul, marquise de
+    aliases:
+    - Mourao e Vasconcellos, Adelaide-Marie-Emilie Filleul Sousa Botelho, marquise
+      de
+    - Botelho Mourão e Vasconcellos, Adélaïde-Marie-Emilie Filleul Sousa, marquise
+      de
+    - Mourão e Vasconcellos, Adélaïde-Marie-Emilie Filleul Sousa Botelho, marquise
+      de
+    - Vasconcellos, Adélaïde-Marie-Emilie Filleul Sousa Botelho Mourão e, marquise
+      de
+    - Souza, Madame de
+    - Flahaut, Adélaïde-Marie-Emilie Filleul, comtesse de
+    - Filleul, Adélaïde-Marie-Emilie, marquise de Souza-Botelho
+    - Sousa Botelho Mourão e Vasconcellos, Adélaïde-Marie-Emilie Filleul, marquise
+      de
+    - Souza-Botelho, Adelaide-Marie-Emilie Filleul, marquise de
+    birthdate: 1761
+    deathdate: 1836
+    gutenberg_agent_id: '32942'
+    url: http://www.gutenberg.org/2009/agents/32942
+    wikipedia: http://en.wikipedia.org/wiki/Adelaide_Filleul,_Marquise_de_Souza-Botelho
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27837'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 18th century'
+title: Adèle de Sénange
+url: http://www.gutenberg.org/ebooks/27837
